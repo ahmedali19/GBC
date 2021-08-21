@@ -6,4 +6,4 @@
   - Dodge the missles
   - Collect life powerup to restore a life
   - Survive until you reach your base
-- [Play Game](https://ahmedali19.github.io/Galactic-Battle-Conquest/ "Play GBC")
+- [Play Game](https://galactic-battle-conquest.surge.sh/ "Play GBC")
